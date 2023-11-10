@@ -1,16 +1,16 @@
-### Hi there 👋
+```console
+[infraw@github ~]$ cowsay < me.txt
+ _________________________________________ 
+/ As a computer engineering student and   \
+| passionate Arch Linux user, I develop   |
+| tools for self-learning and exploration |
+| in the vast realm of Linux and computer |
+\ science.                                /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-<!--
-**Infraw/Infraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
